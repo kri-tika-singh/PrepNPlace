@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  /* colors */
+  --color-dawn: #DDE2F0;       /* page background */
+  --color-mist: #B9C4DC;       /* deeper background - used where white cards need more contrast */
+  --color-ink: #22283F;        /* primary text / dark surfaces */
+  --color-olive: #8A9A5B;      /* primary accent - Start Interview */
+  --color-olive-light: #A9BB78; /* lighter green - for buttons where full olive feels too heavy */
+  --color-indigo: #4A5A8C;     /* secondary accent - Start Test */
+  --color-moss: #5E6B45;       /* eyebrow text, hover states, deep accents */
+  --color-straw: #C4B896;      /* warm panel background */
+  --color-periwinkle: #7C89B8; /* lighter supporting blue */
+  --color-sage-panel: #EAEEDF; /* light green panel background */
+
+  /* fonts */
+  --font-display: "Instrument Serif", serif;
+  --font-sans: "Inter", sans-serif;
+}
