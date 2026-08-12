@@ -11,8 +11,8 @@ import InterviewHistory from './pages/InterviewHistory'
 import AptitudePage from './pages/Aptitude'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
-import AptitudeHistory from './pages/AptitudeHistory'
-import AptitudeReport from './pages/AptitudeReport'
+import AptitudeHistory from './pages/aptitudeHistory'
+import AptitudeReport from './pages/aptitudeReport'
 
 export const ServerUrl  = import.meta.env.VITE_SERVER_URL || "http://localhost:8000"
 
