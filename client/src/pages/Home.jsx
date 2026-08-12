@@ -23,7 +23,7 @@ import resumeImg from "../assets/resume.png";
 import pdfImg from "../assets/pdf.png";
 import analyticsImg from "../assets/history.png";
 import Footer from '../components/Footer';
-import HeroBackground from '../components/HeroBackground';
+import HeroBackground from '../components/heroBackground';
 
 
 function Home() {
