@@ -14,7 +14,7 @@ import InterviewReport from './pages/InterviewReport'
 import AptitudeHistory from './pages/AptitudeHistory'
 import AptitudeReport from './pages/AptitudeReport'
 
-export const ServerUrl  = "http://localhost:8000"
+export const ServerUrl  = import.meta.env.VITE_SERVER_URL || "http://localhost:8000"
 
 function App() {
 
