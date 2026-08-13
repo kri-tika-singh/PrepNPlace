@@ -14,7 +14,7 @@ import aptitudeRouter from "./routes/aptitude.route.js"
 
 const app = express()
 app.use(cors({
-    origin: ["http://localhost:5173", "https://your-app-name.vercel.app"],
+    origin: ["http://localhost:5173", "https://prep-n-place-o9iblag74-kritikas-projects-93d5a2ab.vercel.app/"],
     credentials: true
 }))
 
